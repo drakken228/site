@@ -1,0 +1,38 @@
+body {
+	font-family: "Open Sans", sans-serif;
+}
+.text {
+	font-size: 22px;
+	color: #3b3b3b;
+	font-weight: 300;
+	margin-left: 167px;
+	padding-top: 50px;
+	line-height: 1.5;
+}
+
+.header-xex {
+	font-size: 50px;
+	color: #3b3b3b;
+	font-weight: 700;
+	margin-top: 100px;
+	margin-left: 167px;
+}
+.logo {
+	margin-top: 67px;
+	margin-left: 167px;
+	display: inline-block;
+}
+.menu {
+ display: inline-block;
+ margin-left: 700px;
+}
+a { padding-right: 55px;
+	font-size: 16px;
+	text-decoration: none;
+	color: #3b3b3b;
+	font-weight: 400;
+}
+.form-btn {
+	margin-left: 167px;
+	margin-top: 40px;
+}
