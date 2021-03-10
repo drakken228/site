@@ -1,38 +1,72 @@
 body {
 	font-family: "Open Sans", sans-serif;
-}
-.text {
-	font-size: 22px;
-	color: #3b3b3b;
-	font-weight: 300;
-	margin-left: 167px;
-	padding-top: 50px;
-	line-height: 1.5;
+	margin-top: 70px;
 }
 
-.header-xex {
-	font-size: 50px;
-	color: #3b3b3b;
-	font-weight: 700;
-	margin-top: 100px;
-	margin-left: 167px;
-}
-.logo {
-	margin-top: 67px;
-	margin-left: 167px;
-	display: inline-block;
-}
-.menu {
- display: inline-block;
- margin-left: 700px;
-}
-a { padding-right: 55px;
-	font-size: 16px;
+div a {
 	text-decoration: none;
-	color: #3b3b3b;
-	font-weight: 400;
+	font-size: 16px;
 }
-.form-btn {
-	margin-left: 167px;
-	margin-top: 40px;
+
+.logo {
+	display: inline-block;
+	margin-left: 170px;
 }
+
+.form-menu {
+	display: inline-block;
+	float: right;
+	margin-right: 200px;
+
+}
+a {
+	padding-left: 80px;
+	font-size: 16px; 
+	color: rgb(64, 64, 64);
+	line-height: 1.2;  
+}
+
+.form-header {
+  font-size: 50px;
+  color: rgb(59, 59, 59);
+  font-weight: bold;
+}
+.header {
+	margin-left: 170px;
+	margin-top: 70px;
+}
+
+.text {
+  font-size: 22px;
+  color: rgb(59, 59, 59);
+  line-height: 1.545;
+}
+img {
+	background-repeat: no-repeat;
+}
+
+.burger {
+	margin-left: 170px;
+}
+button {
+   border: none;
+   color: white;
+   font-weight: bolder;
+   padding: 20px;
+   font-size: 15px;
+   cursor: pointer;
+   border-radius: 70px;
+   width: 150px;
+}
+
+.btn {
+   border: 1px solid #ff9800;
+   color:#ff9800;
+   background-color: white;
+}
+
+.btn:hover {
+   background: #e68a00;
+   color: white;
+}
+
